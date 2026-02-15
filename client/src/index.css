@@ -95,7 +95,7 @@ body{
 
   .events-page{
     background-color: aliceblue;
-    height: 100vh;
+    height: auto;
     padding: 10px;
   }
 
