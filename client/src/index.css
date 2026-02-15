@@ -126,7 +126,7 @@ body{
     padding: 8px;
     border: none;
     cursor: pointer;
-  },
+  }
   .cancel {
     background: red;
     color: white;
