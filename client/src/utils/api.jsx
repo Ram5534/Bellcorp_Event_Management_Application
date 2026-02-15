@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000"
+const BASE_URL = "https://bellcorp-event-management-application-2.onrender.com"
 
 export const apiFetch = async (endpoint, options = {}) => {
   const token = localStorage.getItem("token")
